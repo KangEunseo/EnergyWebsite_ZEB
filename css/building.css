@@ -140,7 +140,7 @@ a:hover {
 .content {
     margin-top: 20%;
     width: 1200px;
-    height: 2300px;
+    height: 2700px;
     border: 1px;
     border-radius: 15px;
     background: linear-gradient(to bottom, rgb(255, 255, 255, 0) 0.1%, rgb(255, 255, 255, 0.5) 15%, white 100%);
@@ -151,7 +151,6 @@ a:hover {
 .title {
     font-size: 50px;
     color: rgb(252, 209, 42);
-    font-weight: bold;
     width: 490px;
     padding: 15px;
     margin: 0;
@@ -163,7 +162,8 @@ a:hover {
 
 .story {
     position: absolute center;
-    font-size: 20px;
+    text-align: left;
+    font-size: 25px;
     color: black;
     width: 400px;
     padding: 15px;
