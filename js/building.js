@@ -12,6 +12,10 @@ function moveGirl(e) {
 
 $(window).on('mousemove', moveGirl)
 
+setInterval(function(){
+  $(".blinkEle").toggle();
+}, 250);
+
 function openNav() {
   document.getElementById("sidebar").style.width = "250px";
 }
