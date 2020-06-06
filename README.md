@@ -27,7 +27,7 @@
 
 
 ## 04. 개발자
-[강은서](https://github.com/KangEunseo) : 전기 자동차 페이지 개발
+[강은서](https://github.com/KangEunseo) : 전기 자동차 페이지 개발 및 디자인
 
 [양수빈](https://github.com/susuuBin) : 메인 페이지 개발
 
